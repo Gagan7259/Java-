@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete 7 resources" deleteContents="false" description="Delete 7 resources" element1="/productCrud-23" element2="/jpa" element3="/SpringbootApi" element4="/java8Examples" element5="/ProductCrudApplication" element6="/Springboot-workspace" element7="/springboot-1" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="7" stamp="1673876440035"/>
-</session>
