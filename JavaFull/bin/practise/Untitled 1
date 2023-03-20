@@ -1,0 +1,13 @@
+rules to defined constructer
+    the name of the class and name of the constructer must be matched orsame
+    there is no return and void type not applicable for constructer
+    
+    
+    
+    applicable modifieRs PUBLIC
+     PROTECTED
+     PRIVATE
+     DEFAULT 1.if didnt provide any constructer compile will be provide default consteructer
+             2.if gave one constructer wont genarate default constructer
+     super()= it is always noargument constructer    or ZERO ARGUMENT CONSTRUCTER      
+    if gave  any other modifies we will get compile time error
