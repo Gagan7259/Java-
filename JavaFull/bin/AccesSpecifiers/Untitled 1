@@ -1,0 +1,22 @@
+default accessmodifiers not acces in the different package
+
+                             Private      Public      protected    default
+same-class                       Y          Y           Y             Y
+subclass-same package            N          Y            Y            Y
+non subclass-same package         N         Y            Y             Y
+subclass-diff package            N          Y            Y            N
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     PUBLIC -Global
+     DEFAULT -same package
+     PROTECTED-same package+dii package-with subclass
+     PRIVATE-with in the class only

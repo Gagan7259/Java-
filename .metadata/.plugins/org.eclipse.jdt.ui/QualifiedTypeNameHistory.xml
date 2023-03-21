@@ -2,6 +2,19 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
     <fullyQualifiedTypeName name="practise.methodhiding"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="practise.simpleC"/>
+    <fullyQualifiedTypeName name="EncaPsulation.Employee"/>
+    <fullyQualifiedTypeName name="EncaPsulation.SuperKeyWord"/>
+    <fullyQualifiedTypeName name="EncaPsulation.SuperKeyWord1"/>
+    <fullyQualifiedTypeName name="InEX.Employee1"/>
+    <fullyQualifiedTypeName name="InEX.perManentEmployee"/>
+    <fullyQualifiedTypeName name="InEX.ContractEmployee"/>
+    <fullyQualifiedTypeName name="ACCOUNTEX.Account"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="ACCOUNTEX.SavingsAcc"/>
+    <fullyQualifiedTypeName name="ACCOUNTEX.CurrentAcc"/>
+    <fullyQualifiedTypeName name="ACCOUNTEX.Test"/>
+    <fullyQualifiedTypeName name="ACCOUNTEX.Test2"/>
+    <fullyQualifiedTypeName name="ACCOUNTEX.A"/>
+    <fullyQualifiedTypeName name="ACCOUNTEX.B"/>
 </qualifiedTypeNameHistroy>

@@ -1,0 +1,7 @@
+JAVA LANG PACKAGE
+
+     as a devaloper we not import java.lang package explicitly
+     by default is avialbe for every program
+     its contains commanly requried classes and interface avilable in java.lang.* package
+     
+     its contains OBJECT-CLASS STRINGBUFFER ,STRINGBUILDER ,ALL WRAPPER CLASSES,STRING
