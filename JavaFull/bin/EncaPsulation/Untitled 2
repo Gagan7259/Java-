@@ -2,3 +2,12 @@ ENCAPSULATION:-
 class test{
 Properties And Methods
 }
+
+
+super:- Super is a keyword refers the super class members
+
+
+
+
+
+super() constructer:-intializing the values without creation of obeject exicute the values 
