@@ -5,3 +5,17 @@ JAVA LANG PACKAGE
      its contains commanly requried classes and interface avilable in java.lang.* package
      
      its contains OBJECT-CLASS STRINGBUFFER ,STRINGBUILDER ,ALL WRAPPER CLASSES,STRING
+     IF WE HAVE CLASS tEST
+     ITS DIRECT CHILD CLASS OF OBJECT
+     
+     
+     **********************object class methods**********************
+     1.public String ToString()
+     2.public native int hashcode
+     3.public boolean equals(object obj)
+     4.fibnalized
+     5.clone()
+     6.wait()
+     7.notify
+     
+     
