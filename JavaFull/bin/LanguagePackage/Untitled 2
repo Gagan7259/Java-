@@ -19,3 +19,7 @@ JAVA LANG PACKAGE
      7.notify
      
      
+     Instring and stringbuffer  and all wrapper classes all collections classes toString() is overridden for meaning string method
+     
+     object class ==() for reference comparision 
+     string class ==() for contenet comparision
