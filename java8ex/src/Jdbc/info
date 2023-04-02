@@ -1,0 +1,15 @@
+======================================================
+JDBC API:-
+           set of classes and interfaces used by java program to perform crud operations
+           Java.sql interfaces
+                     DriverManager
+                     Connection
+                     Statement
+                     Resultant
+                     Prepared statement
+                     Callable Statement
+           Javax.sql
+                     Rowset Interface
+
+
+         JDBC URL:- jdbc:mysql://localhost:3306/spring

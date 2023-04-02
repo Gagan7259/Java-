@@ -1,7 +1,6 @@
 package LanguagePackage;
 
 public class StringBufferw {
-	//its 
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -12,3 +11,4 @@ public class StringBufferw {
 	}
 
 }
+//String class only overriden equalls method

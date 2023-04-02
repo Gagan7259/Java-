@@ -1,0 +1,7 @@
+DriverManger:-Load the jdbc Driver onto memory and to connect this  class contains methods
+              getConnection()
+              rigisterDriver()
+
+Connection Interface:-CrerateStatement()
+                      pReapare statement()
+                      PrepareCall()

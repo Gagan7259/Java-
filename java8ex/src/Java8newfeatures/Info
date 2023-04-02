@@ -1,0 +1,23 @@
+Before java8 interface always abstract methods only
+after java8 intruduced
+ 1.functional interface-contains single abstract method
+   CREate:-
+           public interface circle{
+            public abstract void caluclate(double radius)
+            }
+2.LAMBDA EXPRESSION:-
+                    SYNTAX:-()->{}
+                    ITS PROVIDE SHORCUT CODE TO IMPLEMENTS methods in functional interface
+
+3.DEFAULT METHODS
+4.PREDEFINED FUNCTIONAL INTERFACE
+     A.FUNCTION
+     B.BIFUNCTION
+     C.CONSUMER
+     D.BICONSUMER
+     E.PREDICATE
+     F.BIPREDICATE
+     G.SUPPLIER
+     H.dOUBLECOLON(:) OPERATER
+     I.DATE AND TIME
+     J.STREAM API

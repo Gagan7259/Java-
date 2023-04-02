@@ -1,0 +1,62 @@
+                           SET
+         ------------------------------------------------
+         |                                            |
+      HashSet(C)                                 SortedSet(I)
+     LinkedHashSet(C)                           TreeSet(C)
+
+
+     # CURSOR POINTER
+     1.ENUMARATION
+     2.ITERATER
+     3.LISTITERATER
+
+     #SIMPLE TO FIND SET CLASSES
+     1.duplicates not allowed
+     2.insertion order not preserved
+     3.heterogenous objects allowed
+
+
+    #SET:-it is a child interface of collecttion
+          .if we want reprasent group of elements as one entity
+          .duplicates not allowed
+          .insertion order not preserved
+          .heterogenous objects allowed
+  Note:-Set interface doest have new methods
+
+
+  #HASHSET:-
+            Underlying data structure is hashtable
+            duplicates not allowed
+            insertion order not preserved
+            null insertion possible
+            heterogeneous is allowed
+
+ NOTE:-By default capacity 16 elements and fillratio/loadfacter
+  -----------------------------------------------------------
+  #LINKEDHASHSET:-insertion order preserved
+                  duplicates not allowed
+                  Underlying data structure is hashtable with linkedlist
+
+
+
+MAP:-.Reprasents the group of key:value pairs then we should go for map
+      #Not child interface of collections
+      # Both key and values are objects only
+      # Duplicate keys not allowed and duplicate values are allowed
+      # Each key value pair we called as ENTRY
+      ***Map Interfacemethod**
+      # Entry is inner interface we acces with MAP.ENTRY
+      1.object.put(object key,object key)==to add one entry(KEY:VALUE)PAIR
+      2.object.putAll(map m)
+      3.object get(object key)
+      4.object remove(object key)
+      5.boolean containsKey(object key)
+      6.boolean isEmpty()
+      7.int size()--its return the no of key:value pairs
+      8.void clear()
+      9.set keyset()
+     10.set entryset()
+     11.collection values()
+
+     .HASHMAP
+     .LINKED HASHMAP

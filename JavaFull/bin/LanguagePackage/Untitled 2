@@ -23,3 +23,7 @@ JAVA LANG PACKAGE
      
      object class ==() for reference comparision 
      string class ==() for contenet comparision
+     
+     
+     EQUALS_OPERATER                                 EQUAL METHOD
+                                                     applicable for only                

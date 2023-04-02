@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
     <fullyQualifiedTypeName name="practise.methodhiding"/>
     <fullyQualifiedTypeName name="practise.simpleC"/>
     <fullyQualifiedTypeName name="EncaPsulation.Employee"/>
@@ -10,7 +9,6 @@
     <fullyQualifiedTypeName name="InEX.perManentEmployee"/>
     <fullyQualifiedTypeName name="InEX.ContractEmployee"/>
     <fullyQualifiedTypeName name="ACCOUNTEX.Account"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="ACCOUNTEX.SavingsAcc"/>
     <fullyQualifiedTypeName name="ACCOUNTEX.CurrentAcc"/>
     <fullyQualifiedTypeName name="ACCOUNTEX.Test"/>
@@ -19,4 +17,20 @@
     <fullyQualifiedTypeName name="ACCOUNTEX.B"/>
     <fullyQualifiedTypeName name="AccesSpecifiers.class1"/>
     <fullyQualifiedTypeName name="AccesSpecifiers.B"/>
+    <fullyQualifiedTypeName name="LanguagePackage.Lang1"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="LanguagePackage.employee"/>
+    <fullyQualifiedTypeName name="LanguagePackage.Employee"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="Collections.ArrayList"/>
+    <fullyQualifiedTypeName name="clct.arrylist"/>
+    <fullyQualifiedTypeName name="java8Collection.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="Collections.arraylist"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="lombok.Setter"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
 </qualifiedTypeNameHistroy>

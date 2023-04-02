@@ -1,0 +1,12 @@
+====================================================
+Predicate==Boolean(TRUE?FALSE)
+            a.Test()
+           Predefined Functional interface
+           Public abstract boolean test{}
+
+Consumer==No Result
+          a.accept()
+Function==input//output
+             A.apply()
+supplier==No input only supply
+           a.get()

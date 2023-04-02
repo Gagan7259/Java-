@@ -1,0 +1,49 @@
+Excetion Handling:-
+                   java code terminate the program abnormally
+                   it is an event which occurs during the program exicution that event distrub the normal flow of exicution
+                                  THROWABLE
+                   -------------------------------------------
+                   |                                         |
+                   EXCEPTION                                  ERROR
+                    1.SQL-EXCEPTION
+                    2.SERVELET-EXCEP
+                    3.INPUT/OUTPUT EXP
+                    4.RUNTIME-EXP                    4.RUNTIME-EXP
+                    5.FILENOT FOUND                  6.CLASSNOTFOUND
+                                                       7.ARTHMATIC
+                                                       10.ARRAYINDEXBOUND
+                    8.END OF FILE
+                    9.INTERUPTED IO EXCEPTION
+
+
+
+
+
+Error:-its caused ;lack system resources
+
+EXCEPTION HANDLING FUNDAMENTALS:-
+                                TRY
+                                CATCH
+                                FINALLY
+                                THROW
+                                THROWS
+
+ Various methods to print Exception information:-
+                                                  printstackTrace()--get full information
+                                                  toString()
+                                                  getMessage()
+
+   TWO TYPES OF COMPILER THROWING EXCEPTIOns
+1.Checked Compiler==checked by compiler
+                   == all input output excetions are checked exceptions
+2.Unchecked Compiler==unchecked by compiler
+                     ==All runtime exceptions are unchecked exceptyions
+
+
+
+                     THROW:-
+                         to create exception object manually and handover the java jbm
+
+                     Throws:-its is unchecked exception
+                             handover the throw object using Throws Keyword
+

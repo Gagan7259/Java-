@@ -1,0 +1,88 @@
+Collection
+         int [] size={38,40,48,98};\array
+         Employee[] e1=new Employee[5];
+         e[0]=new Employee();
+                  e[0]=new Employee();
+                  e[1]=new Employee();
+                  e[3]=new User();// its hold only Homogenous not allowed heterogenous
+         
+         Array is an fixed in size we cant change the size of the array
+         Array hold only homogenouus 
+         Arrays can hold primitive and object
+         
+         Using collection and object we can hold heterogenous eleemnts
+         
+         *****************JAVA COLLECTION*********************
+         COLLECTION ,COLLECTIONS(C),COLLECTION FRAMEWORK
+        ----------------------------------------\
+        FIXED
+        HOMOGENOUS 
+        THERE IS NO DATA STRUCTURE CONCEPT
+        
+           *************************************COLLECTION*************************
+           Its Growable naturre 
+           its hold heterogenous objects
+           ITS DEFINES SEVERAL CLASS AND INTERFACES WHICH CAN BE USEED TO REPRASEND OBJECTS AS ONE ENTITY
+           
+                      LIST                                SET(I)                                 QUEUE
+                        |                                    |                                      |
+                        ARRAYLIST                         HASH-SET
+                        LINKEDLIST                        LINKED HASH-SET
+                                     
+                        
+         COLLECTIONS                       COLLECTION&FRAMEWORK
+         MAP UTILITY CLASSES           CLASS AND INTERFACES
+        
+        
+        
+        
+        
+        
+        
+        
+        COLLECGTION-FRAMEWORK:-CLASESS AND INTERFACES
+                              USED  TO REPRASENT OF OBJECTS AS ONE ENTITY
+                              
+                             *************** IT CONTAINS IMPORTANT INTERFACES********************
+                             COLLECTION
+                             LIST
+                             SET
+                             QUEUE
+                             SORTEDSET
+                             MAP
+                             SORTEDMAP
+                             NAVIGABLEMAP
+                             
+   Collection-Interface:-
+                         defines most common methods which r applicable for any collection objects
+                          1.boolean add (Object obj)
+                          2.boolean addAll(Collection c)
+                          3.boolean remove(object o)
+                          4.boolean removeall(collection c)
+                          5.void clear ()
+                          6.boolean contains(object o)
+                          7.int size()
+                          8.object[] toArray
+                          9.Iterater iterater()
+                          10.boolean reatainAll  (Collection c)
+                           
+   LIST:=-
+         its is interface of collection 
+         if we want to reprasent group of elements
+         where insertion order preserved and duplicates are allowed  
+         
+         
+  LIST INTERFACE:=-
+                  common used methods  
+                  1.object get(int index)
+                  2.object set(int index,object)
+                  
+  ARRAY-LIST :-
+              if we want reprasent group of objects as one entity where duplicates are allowed
+              insertion order preserved
+              heterogenous elememnts are allowed
+              null insertion allowed
+                             
+                                            
+                                                    
+        
